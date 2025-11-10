@@ -1,6 +1,6 @@
 # Credit_Card_Fraud_Detection_Using_LogisticRegression
 Machine learning project for fraud detection using Logistic Regression, undersampling, and evaluation metrics (ROC, F1-score).
-![Project Banner]("C:\Users\varma\Downloads\project_banner.png")
+![Project Banner]
 
 
 Detecting fraudulent credit card transactions using **Logistic Regression**.  
