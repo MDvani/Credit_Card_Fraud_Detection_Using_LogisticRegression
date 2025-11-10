@@ -31,11 +31,11 @@ Model achieved **93% accuracy** and **97% recall** on fraud detection.
 | Metric | Score |
 |--------|--------|
 | Accuracy | 93% |
-| Precision (Fraud) | 0.91 |
-| Recall (Fraud) | 0.97 |
-| ROC–AUC | 0.97 |
+| Precision (Fraud) | 0.97 |
+| Recall (Fraud) | 0.90 |
+| f1_score | 0.93 |
 
-✅ The model successfully detected ~90% of fraudulent transactions.
+ The model successfully detected ~90% of fraudulent transactions.
 
 ---
 
