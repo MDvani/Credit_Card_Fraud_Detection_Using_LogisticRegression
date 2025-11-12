@@ -64,7 +64,7 @@ Model achieved **93% accuracy** and **97% recall** on fraud detection.
 ## Author
 **Vani Moka**  
 November 2025  
-*LinkedIn:* [linkedin.com/in/vani-moka](https://linkedin.com/in/vani-moka)
+
 
 ---
 
